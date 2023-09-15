@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Fabiano Rong 👋
 
-- 🔭 Hoje trabalho com Back-End
-- 🌱 Estudando Javascript.
+- 🔭 Hoje trabalho com Python/Back-End
+- 🌱 Estudando APIs.
 
