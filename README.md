@@ -1,10 +1,6 @@
-# Hi, I’m Fabiano Rong
-
-I’m a full-stack developer based in Florianópolis, Brazil. I build web apps that help people work with data, from healthcare scheduling to League of Legends analysis.
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-arena-dark.svg">
-  <img src="assets/readme-arena-light.svg" width="760" alt="Two stick figures dash, leap across lines of text, and shatter the README. A repair drone rebuilds the page before the fighters salute.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-duel-dark.svg">
+  <img src="assets/profile-duel-light.svg" width="100%" alt="Hi, I’m Fabiano Rong. Full-stack developer in Florianópolis, Brazil. I build web apps that help people work with data, from healthcare scheduling to League of Legends analysis. In the animation, two stick figures emerge from the text and duel before the page rebuilds.">
 </picture>
 
 ## Selected projects
