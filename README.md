@@ -1,13 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-duel-dark.svg">
-  <img src="assets/profile-duel-light.svg" width="100%" alt="Hi, I’m Fabiano Rong. Full-stack developer in Florianópolis, Brazil. I build web apps that help people work with data, from healthcare scheduling to League of Legends analysis. In the animation, two stick figures emerge from the text and duel before the page rebuilds.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/voxel-duel-dark.svg">
+  <img src="assets/voxel-duel-light.svg" width="100%" alt="Hi, I’m Fabiano Rong. Full-stack developer in Florianópolis, Brazil. I build tournament websites and tactical tools, from match stats to drafts in League of Legends. Two stick figures duel across the text. A red panda watches as a blade shatters a wall of grass blocks. The page rebuilds at the end.">
 </picture>
 
 ## Selected projects
 
+- **[CFLOL](https://cflol.com.br/)** · Tournament site for Foz’s League of Legends championship, with schedules, results, and player stats.
 - **[WebLol](https://github.com/bsanoli/WebLol)** · I contribute to a League of Legends workspace with match statistics, draft planning, and a tactical map.
-- **[Panda Healthcare](https://github.com/fabianorong/panda-healthcare)** · A patient portal for booking and managing appointments.
-- **[Treine](https://github.com/fabianorong/treine)** · A responsive landing page for a fitness SaaS.
 
 ## Tools I use
 
