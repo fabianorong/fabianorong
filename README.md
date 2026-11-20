@@ -3,8 +3,8 @@
 I’m a full-stack developer based in Florianópolis, Brazil. I build web apps that help people work with data, from healthcare scheduling to League of Legends analysis.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/from-code-dark.svg">
-  <img src="assets/from-code-light.svg" width="760" alt="Animated illustration of code flowing into a dashboard, where it builds a chart and a tactical map.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/duel-dark.svg">
+  <img src="assets/duel-light.svg" width="760" alt="Two stick figures duel across the README, scattering its lettering and cracking a divider before the pieces come back together.">
 </picture>
 
 ## Selected projects
