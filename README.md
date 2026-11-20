@@ -1,9 +1,24 @@
-# Hello! I'm Fabiano Rong 👋
+# Hi, I’m Fabiano Rong
 
-👨‍💻 Full Stack Developer <br/>
-👨‍🎓 Background: Graduated in Food Engineering at the Federal University of Santa Catarina (UFSC), Brazil <br/>
-📘 Currently: Pursuing a Postgraduate degree in Software Engineering at PUC Minas, Brazil <br/>
-💡 What I'm up to: Building personal projects to enhance my skills and grow my portfolio <br/>
+I’m a full-stack developer based in Florianópolis, Brazil. I build web apps that help people work with data, from healthcare scheduling to League of Legends analysis.
 
-## 💻 Tech Stack
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/from-code-dark.svg">
+  <img src="assets/from-code-light.svg" width="760" alt="Animated illustration of code flowing into a dashboard, where it builds a chart and a tactical map.">
+</picture>
+
+## Selected projects
+
+- **[WebLol](https://github.com/bsanoli/WebLol)** · I contribute to a League of Legends workspace with match statistics, draft planning, and a tactical map.
+- **[Panda Healthcare](https://github.com/fabianorong/panda-healthcare)** · A patient portal for booking and managing appointments.
+- **[Treine](https://github.com/fabianorong/treine)** · A responsive landing page for a fitness SaaS.
+
+## Tools I use
+
+TypeScript · JavaScript · React · Node.js · Tailwind CSS · PostgreSQL · MySQL · Python · Figma · GitHub
+
+## Education
+
+Food Engineering at UFSC and postgraduate studies in Software Engineering at PUC Minas.
+
+[Portfolio](https://fabianorong.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fabianorong/)
