@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/voxel-duel-dark.svg">
-  <img src="assets/voxel-duel-light.svg" width="100%" alt="Hi, I’m Fabiano Rong. Full-stack developer in Florianópolis, Brazil. I build tournament websites and tactical tools, from match stats to drafts in League of Legends. Two stick figures duel across the text. A red panda watches as a blade shatters a wall of grass blocks. The page rebuilds at the end.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/duel-first-read-dark.svg">
+  <img src="assets/duel-first-read-light.svg" width="100%" alt="Hi, I’m Fabiano Rong. Full-stack developer in Florianópolis, Brazil. I build tournament websites and tactical tools, from match stats to drafts in League of Legends. The introduction stays still for eight seconds. Then two stick figures duel across the text while a panda watches. A giant blade shatters a wall of grass blocks and the page rebuilds.">
 </picture>
 
 ## Selected projects
