@@ -3,8 +3,8 @@
 I’m a full-stack developer based in Florianópolis, Brazil. I build web apps that help people work with data, from healthcare scheduling to League of Legends analysis.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/duel-dark.svg">
-  <img src="assets/duel-light.svg" width="760" alt="Two stick figures duel across the README, scattering its lettering and cracking a divider before the pieces come back together.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-arena-dark.svg">
+  <img src="assets/readme-arena-light.svg" width="760" alt="Two stick figures dash, leap across lines of text, and shatter the README. A repair drone rebuilds the page before the fighters salute.">
 </picture>
 
 ## Selected projects
